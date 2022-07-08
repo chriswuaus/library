@@ -1,0 +1,7 @@
+genre Fantasy
+add collection test.csv
+genre Yeehaw Cowboys
+genre Fantasy
+add collection duplicates.csv
+genre Fantasy
+eXIT

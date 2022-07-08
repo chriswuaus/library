@@ -1,0 +1,28 @@
+MEMBER HISTORY 100000
+add member beanboy bean
+member history 1010101
+member history 100000
+add collection test.csv
+rent 100000 111111
+member history 100000
+relinquish 100000 111111
+member history 100000
+rent 100000 111111
+rent 100000 111112
+rent 100000 111113
+rent 100000 111114
+rent 100000 111115
+rent 100000 111116
+rent 100000 111117
+rent 100000 111118
+member history 100000
+relinquish 100000 111111
+relinquish 100000 111112
+relinquish 100000 111113
+relinquish 100000 111114
+relinquish 100000 111115
+relinquish 100000 111116
+relinquish 100000 111117
+relinquish 100000 111118
+member history 100000
+exit

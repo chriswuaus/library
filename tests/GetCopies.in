@@ -1,0 +1,6 @@
+numBER COPIES
+add collection test3nodup.csv
+NUMBER COPIES
+add collection duplicates.csv
+number COPIES
+exit

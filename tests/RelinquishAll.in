@@ -1,0 +1,17 @@
+ReLINqUISH ALL 100000
+ADD MEMBER BEANBABY
+relinquish all 1001010
+relinquish all 100000
+member books 100000
+add collection test.csv
+rent 100000 111111
+rent 100000 111112
+rent 100000 111113
+rent 100000 111114
+rent 100000 111115
+rent 100000 111116
+rent 100000 111117
+member books 100000
+relinquish all 100000
+member books 100000
+exit

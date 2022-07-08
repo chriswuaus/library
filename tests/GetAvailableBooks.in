@@ -1,0 +1,23 @@
+list avAIlable
+list aVailAblE LONG
+add member beans
+add book test.csv 111111
+list avAIlable
+LIST AVAILABLE LONG
+rent 100000 111111
+list available
+list available long
+add collection test.csv
+list avAIlable
+list available LONG
+rent 100000 111112
+rent 100000 111113
+rent 100000 111114
+rent 100000 111115
+rent 100000 111116
+rent 100000 111117
+rent 100000 111118
+rent 100000 111119
+list available
+list available long
+exit

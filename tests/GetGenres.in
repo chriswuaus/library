@@ -1,0 +1,6 @@
+list genres
+add collection test3nodup.csv
+list genres
+add collection duplicates.csv
+list genres
+exit

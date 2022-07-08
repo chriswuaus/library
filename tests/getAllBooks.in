@@ -1,0 +1,15 @@
+list all
+list all long
+add book test.csv 111111
+list all
+list all long
+add collection test.csv
+list all
+list all long
+add member beans
+rent 100000 111111
+rent 100000 111112
+rent 100000 111114
+rent 100000 111120
+list all long
+exit

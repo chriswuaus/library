@@ -1,0 +1,8 @@
+LIST authors
+add book test.csv 111111
+list authors
+add collection test3nodup.csv
+list authors
+add collection test.csv
+list authors
+EXit

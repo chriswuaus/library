@@ -1,0 +1,13 @@
+relinquish 100000 111111
+add member beans
+relinquish 100000 90909000
+add collection test.csv
+relinquish 10001010 111111
+relinquish 100000 69696969
+relinquish 100000 111111
+rent 100000 111111
+rent 100000 111112
+relinquish 100000 111111
+relinquish 100000 111112
+relinquish 100000 111112
+exit
